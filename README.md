@@ -14,8 +14,10 @@ Screenshots
 
 ![Meme Feed](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallMemeFeed.png "Meme Feed")
 
+![Image Picker](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallImagePicker.png "Image Picker")
+
 ![Create Meme](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallCreateMeme.png "Create Meme")
 
 ![Fork Meme](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallForkMeme.png "Fork Meme")
 
-![Image Picker](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallImagePicker.png "Image Picker")
+![Share Meme](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallImagePicker.png "Share Meme")
