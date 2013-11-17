@@ -12,7 +12,7 @@ Screenshots
 
 ![Global Feed](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallGlobalFeed.png "Global Feed")
 
-![Meme Feed](https://github.com/boes-matt/MemeR/blob/master/screenshots/smallMemeFeed.png "Meme Feed")
+![Meme Feed](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallMemeFeed.png "Meme Feed")
 
 ![Create Meme](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallCreateMeme.png "Create Meme")
 
