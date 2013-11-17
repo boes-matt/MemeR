@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MemeActivity" >
+
+    <EditText
+        android:id="@+id/etTopCaption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:hint="@string/enter_top_caption"
+        android:inputType="textCapCharacters" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/etBottomCaption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/etTopCaption"
+        android:layout_below="@+id/etTopCaption"
+        android:layout_marginTop="15dp"
+        android:hint="@string/enter_bottom_caption"
+        android:inputType="textCapCharacters" />
+
+    <Button
+        android:id="@+id/btnPublish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/etBottomCaption"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="15dp"
+        android:text="@string/button_publish"
+        android:onClick="onPublish" />
+
+    <ImageButton
+        android:id="@+id/ivBaseImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnPublish"
+        android:layout_alignLeft="@+id/etBottomCaption"
+        android:layout_below="@+id/etBottomCaption"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/ic_base_image"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/meme_image" />
+    
+</RelativeLayout>

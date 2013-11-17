@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemeR</string>
+    <string name="create_meme">Create Meme</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_meme">Create Meme</string>
+    <string name="enter_top_caption">Top caption</string>
+    <string name="enter_bottom_caption">Bottom caption</string>
+    <string name="meme_image">Meme image</string>
+    <string name="button_publish">Publish</string>
+    <string name="button_preview">Preview</string>
+    <string name="title_activity_image_picker">Image Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search</string>
+    <string name="query_hint">Find meme candidates</string>
+    <string name="imageResult">Image result</string>
+    <string name="share">Share</string>
+    <string name="fork">Fork</string>
+    <string name="message">Click meme to see a meme specific feed.</string>
+
+</resources>
