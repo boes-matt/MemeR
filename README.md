@@ -14,21 +14,26 @@ Global Feed
 
 ![Global Feed](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallGlobalFeed.png "Global Feed")
 
+
 Meme Feed
 
 ![Meme Feed](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallMemeFeed.png "Meme Feed")
+
 
 Image Picker
 
 ![Image Picker](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallImagePicker.png "Image Picker")
 
+
 Create Meme
 
 ![Create Meme](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallCreateMeme.png "Create Meme")
 
+
 Fork Meme
 
 ![Fork Meme](https://raw.github.com/boes-matt/MemeR/master/screenshots/smallForkMeme.png "Fork Meme")
+
 
 Share Meme
 
