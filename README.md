@@ -12,19 +12,19 @@ Built at the Google 2013 Android Hackathon.  Awarded 3rd place.
 
 ## Screenshots
 
-View Feeds
+### View Feeds
 
 <img src="https://raw.github.com/boes-matt/MemeR/master/screenshots/smallGlobalFeed.png" />
 &nbsp;&nbsp;
 <img src="https://raw.github.com/boes-matt/MemeR/master/screenshots/smallMemeFeed.png" />
 
-Create a Meme
+### Create a Meme
 
 <img src="https://raw.github.com/boes-matt/MemeR/master/screenshots/smallImagePicker.png" />
 &nbsp;&nbsp;
 <img src="https://raw.github.com/boes-matt/MemeR/master/screenshots/smallCreateMeme.png" />
 
-Fork and Share
+### Fork and Share
 
 <img src="https://raw.github.com/boes-matt/MemeR/master/screenshots/smallForkMeme.png" />
 &nbsp;&nbsp;
