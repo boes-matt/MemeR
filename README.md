@@ -2,9 +2,9 @@
 
 Create, fork, and share memes.  You can:
 
-    * Use the image picker, backed by Google image search, to find meme candidates.  
-    * Publish memes to the global feed
-    * Share on Facebook, Twitter, and others.
+  * Use the image picker, backed by Google image search, to find meme candidates.  
+  * Publish memes to the global feed
+  * Share on Facebook, Twitter, and others.
 
 Built at the Google 2013 Android Hackathon.  Awarded 3rd place.
 
